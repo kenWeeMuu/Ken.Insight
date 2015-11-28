@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="Ken.Insight.Web.MvcApplication" Language="C#" %>
