@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ken.Insight.KTrade", "Ken.Insight.KTrade\Ken.Insight.KTrade.csproj", "{E42B1AE2-BAD9-4E40-A29C-917A8095AF64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIs", "..\..\..\用户目录\我的文档\Visual Studio 2015\Projects\Ken.Insight.KentUI\UIs\UIs.csproj", "{4330FC0A-88BE-4B5D-AD98-DC408B917D5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E42B1AE2-BAD9-4E40-A29C-917A8095AF64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E42B1AE2-BAD9-4E40-A29C-917A8095AF64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E42B1AE2-BAD9-4E40-A29C-917A8095AF64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4330FC0A-88BE-4B5D-AD98-DC408B917D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4330FC0A-88BE-4B5D-AD98-DC408B917D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4330FC0A-88BE-4B5D-AD98-DC408B917D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4330FC0A-88BE-4B5D-AD98-DC408B917D5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
